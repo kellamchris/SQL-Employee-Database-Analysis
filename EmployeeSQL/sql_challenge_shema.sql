@@ -1,3 +1,5 @@
+-- DATA ENGINEERING
+
 -- Departments table
 CREATE TABLE departments (
 	department_number VARCHAR(10) NOT NULL,
@@ -62,6 +64,3 @@ CREATE TABLE salaries (
 );
 
 SELECT * FROM salaries;
-
-
-
